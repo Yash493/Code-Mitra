@@ -46,9 +46,5 @@ You can view the live preview of the project [here](https://code-sync-live.verce
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-Also, huge gratitude to Tldraw contributors for their amazing library. For more information about Tldraw, please visit:
-
--   [Tldraw Repository](https://github.com/tldraw/tldraw)
--   [Tldraw Documentation](https://tldraw.dev/)
 
 
